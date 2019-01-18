@@ -55,7 +55,7 @@ var respecConfig =
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
   shortName: "him10",  	            // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
-  pubDomain: "him", 	              // Metamodel Informatie Modellering
+  pubDomain: "mim", 	              // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
   //pubDomain: "bro", 	            // Basisregistratie Ondergrond
   //pubDomain: "imgeo", 	          // IMGeo / BGT
@@ -69,11 +69,11 @@ var respecConfig =
   //pubDomain: "visu", 	            // Visualisatie
   //pubDomain: "wp", 	              // White Paper
   //-- Repositorynaam op GitHub -------------------------------------------------------
-  github: "https://github.com/Geonovum/MIM-Werkomgeving",
+  github: "https://github.com/Geonovum/HIM-Werkomgeving",
   //-- Repositorynaam/issues op GitHub ------------------------------------------------
-  issueBase: "https://github.com/Geonovum/MIM-Werkomgeving/issues/",
+  issueBase: "https://github.com/Geonovum/HIM-Werkomgeving/issues/",
    //-- edDraftURI: de URI van de werkversie van het document
-   edDraftURI: "https://geonovum.github.io/MIM-Werkomgeving/Werkversie/",
+  edDraftURI: "https://geonovum.github.io/HIM-Werkomgeving",
   //-- license: voor de geldende gebruiksvoorwaarden
   licence: "cc-by-nd",              //-- bronvermelding, geen afgeleide werken (default)
   // licence: "cc0",                //-- Public Domain Dedication
