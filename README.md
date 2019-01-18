@@ -1,2 +1,2 @@
-# HIM-Werkversie
-Handreiking MIM (zie MIM-Werkversie)
+# HIM-Werkomgeving
+Handreiking MIM (zie MIM-Werkomgeving)
