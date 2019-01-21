@@ -31,7 +31,7 @@ var respecConfig =
   format: "markdown",                   // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  //publishDate: "2018-09-18",  	      // Format is "YYY-MM-DD"
+  publishDate: "2019-01-21",  	      // Format is "YYY-MM-DD"
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
