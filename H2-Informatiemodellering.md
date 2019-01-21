@@ -41,7 +41,7 @@ In onderstaand figuur wordt de rol van dataspecificaties, of in beperktere zin,
 informatiemodellen, gepositioneerd. Voor dit document betreft het
 dataspecificaties voor informatiehuizen.
 
-![](media/911f4356b2edb0cc990f70067839c896.png)
+![](media/Plaatje2.jpg)
 
 In figuur 2 is er een centrale rol voor de stelselcatalogus en de toepassing
 daarvan in registers. In het rapport Globaal functioneel ontwerp
@@ -64,6 +64,8 @@ de semantiek van begrippen en koppeling naar de informatiebronnen.
 
 Onderstaand figuur schets de afhankelijkheden tussen een dataspecificatie en
 gerelateerde producten.
+
+![](media/Plaatje3.jpg)
 
 Figuur 3 - Relaties tussen een dataspecificatie en gerelateerde producten. Een
 Dataspecificatie is een product van een informatiehuis en specificeert structuur

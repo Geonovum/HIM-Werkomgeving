@@ -21,6 +21,14 @@ hebben. In dat geval is het maken van een dataspecificatie nog steeds zinvol
 maar ziet het proces er anders en korter uit. Onderstaand zijn grofweg de
 processtappen beschreven. Enkele stappen worden toegelicht.
 
+![](media/Plaatje4.jpg)
+
+Figuur 4 - Processtappen in het opstellen van een dataspecificatie. (aangepast van INSPIRE D2.6)
+
+dataspecificatie nog steeds zinvol maar ziet het proces er anders en korter uit.  
+Onderstaand zijn grofweg de processtappen beschreven. Enkele stappen worden toegelicht.
+
+
 Use-case beschrijving.
 ----------------------
 

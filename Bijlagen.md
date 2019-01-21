@@ -1,7 +1,6 @@
-Bijlagen 
-=========
+# Bijlagen 
 
-1.  \- Abstracte conformiteittoets: Dataspecificatie voor DSO.
+##  Bijlage 1: Abstracte conformiteittoets: Dataspecificatie voor DSO.
 
 Inleiding
 
@@ -49,7 +48,7 @@ conformiteitklassen
 3.  Niet van toepassing: Het testonderwerp is niet van toepassing voor deze
     dataspecificatie.
 
-###### Testregels: ATS dataspecificatie voor DSO.
+**Testregels: ATS dataspecificatie voor DSO.**
 
 1.1 Scope van de dataspecificatie.
 
@@ -161,7 +160,7 @@ conformiteitklassen
 
 4.  Testtype: Detailtest.
 
-5.  \- Termen en afkortingen
+## Bijlage 2: Termen en afkortingen
 
 Termen
 
@@ -187,15 +186,15 @@ Termen
 |                                                    |                         |                                                                                                                                                                           |
 |                                                    |                         |                                                                                                                                                                           |
 
-1.  \- Referentie implementatie KKG-alternatief 2
+## Bijlage 3: Referentie implementatie KKG-alternatief 2
 
 Voorbeeld van een UML klassediagram met fictieve informatielelementen.
 KKG-alternatief 2 wordt hierin gevolgd. De naamgevingsconventie voor alternatief
 2 is hier niet toegepast.
 
-![](media/0417dfb0679403589172e93319191cd8.wmf)
+![](media/PlaatjeBijlage3.png)
 
-1.  – Voorbeeld Dataspecificatie template
+## Bijlage 4: Voorbeeld Dataspecificatie template
 
 Deze bijlage beschrijft het template dat gebruikt kan worden voor het opstellen
 van een dataspecificatie document. Dit template is binnen deze opdracht niet
@@ -218,7 +217,7 @@ Voorbeeld 1: (hoofdstuk 5 is uit een UML gegenereerde objectcatalogus)
 
 Voorbeeld 2: <https://geonovum.github.io/Metadata-ISO19115/>
 
-1.  – Bibliografie
+## Bijlage 5: Bibliografie
 
 GIMAReader Module 5 UML.
 
@@ -293,9 +292,8 @@ view](https://www.nen.nl/NEN-Shop/Norm/NPRCENTR-1544932012-en.htm)
 INSPIRE Data Specification Extensions:
 <http://inspire-extensions.wetransform.to/>
 
-Werkgroep URI-Strategie, 2014. Voorstel URI strategie voor de basisregistraties.
-(<http://www.pilod.nl/w/images/1/16/20141009_AdviesURIStrategieBasisregistraties_0.3.pdf>
-)
+Werkgroep URI-Strategie, 2014. Voorstel URI strategie voor de basisregistraties.  
+<"http://www.pilod.nl/w/images/1/16/20141009_AdviesURIStrategieBasisregistraties_0.3.pdf">
 
 Werkgroep Best Practices, 2013. Metamodel voor structuurmodellen in
 (basis)registraties. Whitepaper (Geonovum).
