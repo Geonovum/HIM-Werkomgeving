@@ -135,4 +135,4 @@ bestaande semantiek en bestaande informatiemodellen. Het kan voorkomen dat het
 uitbreiden van bestaande informatiemodellen met extra semantiek een wenselijke
 methode is. O.a. bij het toepassen van INSPIRE dataspecificaties voor
 Nederlandse werkprocessen kan die methode toegepast worden. Een methode daarvoor
-is uitgewerkt op: <http://inspire-extensions.wetransform.to/>
+is uitgewerkt op: http://inspire-extensions.wetransform.to/
