@@ -48,7 +48,7 @@ zowel nationale als internationale standaarden. In dit hoofdstuk zijn deze
 normatieve referenties opgenomen. Voor een goede toepassing van dit document is
 kennis nodig van de opgenomen referenties.
 
-Metamodel voor informatiemodellering; KING, Kadaster, Geonovum.
+Metamodel voor informatiemodellering; VNG Realisatie, Kadaster, Geonovum.
 
 NEN 3610:2011/A1:2016 Basismodel Geo-informatie – Termen, definities relaties en
 algemene regels voor de uitwisseling van informatie over aan de aarde

@@ -3,7 +3,7 @@ Modelleren
 
 In dit hoofdstuk wordt een metamodel beschreven voor het opstellen van een
 informatiemodel. Centraal hierin staat het metamodel voor informatiemodellering
-KKG[^1]. Het metamodel omvat de informatie-elementen die in een informatiemodel
+MIM[^1]. Het metamodel omvat de informatie-elementen die in een informatiemodel
 kunnen voorkomen en de beschrijvende informatie die bij die elementen hoort.
 Naast het metamodel zijn er ook een aantal regels opgenomen voor
 modelleerconstructies. Uitgangspunt is dat het metamodel en de constructies
@@ -12,7 +12,7 @@ informatiehuizen.
 
 [^1]: Metamodel voor informatiemodellen.
 
-Metamodel – Toepassing van KKG
+Metamodel – Toepassing van MIM
 ------------------------------
 
 Een metamodel beschrijft de informatie-elementen op het metaniveau. Het is in
@@ -38,17 +38,17 @@ nadere specificering van de toepassing van UML.
 Regel: Extensies op het metamodel zijn mogelijk maar mogen niet in tegenspraak
 zijn met het metamodel.
 
-Het document Metamodel voor informatiemodellen, opgesteld door KING, Kadaster en
+Het document Metamodel voor informatiemodellen, opgesteld door VNG Realisatie, Kadaster en
 Geonovum wordt overgenomen voor toepassing binnen het DSO. Het genoemde
-metamodel wordt aangeduid als metamodel KKG.
+metamodel wordt aangeduid als metamodel MIM.
 
-Regel: DSO gebruikt KKG metamodel voor informatiemodellen.
+Regel: DSO gebruikt MIM metamodel voor informatiemodellen.
 
-Het KKG onderscheidt een aantal niveaus van informatiemodellering, van
+Het MIM onderscheidt een aantal niveaus van informatiemodellering, van
 begrippenmodel, conceptueel informatiemodel, logisch informatiemodel tot
 technisch gegevensmodel. Voor het metamodel in deze handreiking is het niveau
 van het logisch informatiemodel van toepassing. Ter begrip hiervan is de volgens
-tekst uit KKG overgenomen:
+tekst uit MIM overgenomen:
 
 1.  *Model van begrippen*  
     Beschrijft de werkelijkheid binnen het beschouwde domein (de ‘universe of
@@ -107,14 +107,14 @@ ondersteunen.
 Regel: Dit document gebruikt het logisch informatiemodel als het niveau waarop
 informatiemodellen worden beschreven.
 
-### Keuze uit alternatieven van KKG
+### Keuze uit alternatieven van MIM
 
-Het metamodel KKG benoemt op enkele punten alternatieve oplossingen. Voor
+Het metamodel MIM benoemt op enkele punten alternatieve oplossingen. Voor
 toepassing binnen het DSO wordt een keuze gemaakt uit deze alternatieven.
 
 Relatiesoort of relatierol.
 
-KKG heeft twee alternatieven voor de modellering en metadatering van relaties
+MIM heeft twee alternatieven voor de modellering en metadatering van relaties
 tussen objecttype. Een relatie wordt gerealiseerd door een ‘relatiesoort’.
 
 **Alternatief 1:** gaat uit van de leidende rol van de relatiesoort, deze heeft
@@ -129,19 +129,19 @@ Regel: Alternatief 2 wordt gevolgd in dit document.
 
 Naamgevingsconventies.
 
-KKG heeft twee alternatieven voor naamgevingsconventie van informatie-elementen.
+MIM heeft twee alternatieven voor naamgevingsconventie van informatie-elementen.
 
 **Alternatief 1**: natuurlijke taal, die dichtbij de gebruiker staat. Met
 natuurlijke taal wordt bedoeld, zoals de gebruikers erover praten, in normaal
 Nederlands. Veelal zijn dit alleen letters en cijfers, met spaties. Koppeltekens
 (‘-’ of ‘_’) kunnen gebruikt worden, indien gewenst, alsmede diakrieten. Deze
-conventie wordt in KKG verplicht gesteld voor het conceptuele niveau.
+conventie wordt in MIM verplicht gesteld voor het conceptuele niveau.
 
 **Alternatief 2:** taal (ook) leesbaar door systemen. Met machine leesbare taal
 wordt bedoeld dat deze eenvoudig door systemen te verwerken is. Veelal zijn dit
 alleen letters en cijfers, zonder spaties, zonder diakrieten. Koppeltekens (‘-’
 of ‘_’) kunnen gebruikt worden, maar dit wordt veelal vermeden. Deze conventie
-wordt in KKG verplicht gesteld voor het logische niveau.
+wordt in MIM verplicht gesteld voor het logische niveau.
 
 Regel: Alternatief 2 wordt gevolgd in dit document.
 
@@ -196,8 +196,8 @@ Temporeel model
 ---------------
 
 Het bijhouden van historie en toekomst in relatie tot geldigheid van gegevens
-valt onder het temporele model. KKG heeft op meta niveau een mechanisme om aan
-te geven of attributen historie op bouwen. In KKG is op het logisch niveau
+valt onder het temporele model. MIM heeft op meta niveau een mechanisme om aan
+te geven of attributen historie op bouwen. In MIM is op het logisch niveau
 daarvoor geen implementatie beschreven. Binnen deze handreiking is dat ook niet
 opgenomen. Voor de DSO moet worden bezien hiervoor een gestandaardiseerde
 oplossing wordt ontwikkeld.
@@ -248,7 +248,7 @@ informatie-elementen aan te geven. In overeenstemming met ISO/IEC 11404 wordt
 daarmee aangegeven dat het informatie-element semantisch nodig is maar in
 bepaalde gevallen niet kan worden opgenomen of uitgewisseld. Het is dan
 duidelijk voor welke elementen de constructie wel of niet gebruikt mag worden.
-KKG geeft dit aan door bij die elementen een ‘indicatie mogelijk geen waarde’ op
+MIM geeft dit aan door bij die elementen een ‘indicatie mogelijk geen waarde’ op
 te nemen. Het kan toegepast worden bij attributen en associatierollen.
 
 Voor de redenen dat een element niet is ingevuld is een afgesproken lijst

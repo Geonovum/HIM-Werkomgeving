@@ -80,12 +80,12 @@ conformiteitklassen
 
 1.3 Metamodel
 
-1.3.1 Metamodel – KKG
+1.3.1 Metamodel – MIM
 
 1.  Testreden: controle op het gebruik van het beschreven metamodel.
 
 2.  Testmethode: Verifieer het gebruikte metamodel. De dataspecificatie moet
-    aangeven dat het KKG metamodel wordt gebruikt of een extensie hiervan.
+    aangeven dat het MIM metamodel wordt gebruikt of een extensie hiervan.
 
 3.  Referentie: 4.1
 
@@ -114,9 +114,9 @@ conformiteitklassen
 
 4.  Testtype: Basistest.
 
-1.5 Toepassing KKG alternatieven voor associaties in het informatiemodel
+1.5 Toepassing MIM alternatieven voor associaties in het informatiemodel
 
-1.  Testreden: controle of alternatief 2 van KKG wordt gevolgd
+1.  Testreden: controle of alternatief 2 van MIM wordt gevolgd
 
 2.  Testmethode: Zijn de targetrollen van associaties verplicht gebruikt.
 
@@ -186,10 +186,10 @@ Termen
 |                                                    |                         |                                                                                                                                                                           |
 |                                                    |                         |                                                                                                                                                                           |
 
-## Bijlage 3: Referentie implementatie KKG-alternatief 2
+## Bijlage 3: Referentie implementatie MIM-alternatief 2
 
 Voorbeeld van een UML klassediagram met fictieve informatielelementen.
-KKG-alternatief 2 wordt hierin gevolgd. De naamgevingsconventie voor alternatief
+MIM-alternatief 2 wordt hierin gevolgd. De naamgevingsconventie voor alternatief
 2 is hier niet toegepast.
 
 ![](media/PlaatjeBijlage3.png)
@@ -201,7 +201,7 @@ van een dataspecificatie document. Dit template is binnen deze opdracht niet
 gestandaardiseerd. Er is een voorbeeld template gemaakt dat als input kan dienen
 voor het verder afstemmen van gebruik door informatiehuizen:
 Dataspecificatie_Template_DSO.docx. Het voorbeeld is nog niet ontwikkeld voor
-toepassing van het metamodel KKG.  
+toepassing van het metamodel MIM.  
   
 Bij Geonovum wordt een methode ontwikkeld om de documentatie van
 geo-standaarden, waaronder dataspecificaties te beheren van uit een github

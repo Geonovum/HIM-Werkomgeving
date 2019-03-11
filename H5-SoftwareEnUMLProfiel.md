@@ -20,11 +20,11 @@ genereren.
 Aanbeveling: Gebruik van Sparx Enterprise Architect software voor het modelleren
 vergroot de interoperabiliteit tussen modelleeromgevingen.
 
-Voor toepassing van KKG in EA is er een UML-profiel ontwikkeld:
+Voor toepassing van MIM in EA is er een UML-profiel ontwikkeld:
 
--   ‘Informatiemodel’ UML-profiel, KKG-alt2: UML profiel voor implementatie
-    binnen EA. Stereotypen conform KKG alternatief 2. Ontwikkeld binnen project
-    Metamodel KKG.
+-   ‘Informatiemodel’ UML-profiel, MIM-alt2: UML profiel voor implementatie
+    binnen EA. Stereotypen conform MIM alternatief 2. Ontwikkeld binnen project
+    Metamodel MIM.
 
 Implementatiesoftware
 ---------------------
