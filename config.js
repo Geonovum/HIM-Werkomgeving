@@ -37,7 +37,7 @@ var respecConfig =
   editors: 
   [
     {
-      name:       "Ir. Paul Janssen",
+      name:       "Paul Janssen",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     },
@@ -47,7 +47,7 @@ var respecConfig =
   authors: 
   [
     {
-      name:       "Ir. Paul Janssen",
+      name:       "Paul Janssen",
       company:    "Geonovum",
       companyURL: "https://www.geonovum.nl"
     },
