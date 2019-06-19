@@ -31,7 +31,7 @@ var respecConfig =
   format: "markdown",                   // altijd "markdown"     
   //-- publishDate is verplicht -------------------------------------------------------
   //-- NB: in de werkversie uitzetten, want dan pakt Respec de pushdate ---------------
-  //publishDate: "2019-01-21",  	      // Format is "YYY-MM-DD"
+  publishDate: "2019-06-19",  	      // Format is "YYY-MM-DD"
   //-- de namen van de Editor(s) ------------------------------------------------------
   //-- vul in: per Editor: name:, company:, companyURL: -------------------------------
   editors: 
@@ -53,7 +53,7 @@ var respecConfig =
     },
   ],
   //-- shortName is verplicht! (komt in de URL: kies logische naam) --------------------
-  shortName: "him101",  	            // Wordt gebruikt in de document URL
+  shortName: "him10",  	            // Wordt gebruikt in de document URL
   //-- pubDomain is verplicht! (komt in de URL: Activeer 1 van de volgende) ------------
   pubDomain: "mim", 	              // Metamodel Informatie Modellering
   //pubDomain: "bor", 	            // Beheer Openbare Ruimte
@@ -91,11 +91,11 @@ var respecConfig =
         publisher:  "naam van de publiceerder",
         company:    "eventueel naam van bedrijf",
     }
-  }
+  },
 
   //-- Voor dit blok geldt: alleen als er eerdere versies zijn en altijd beiden aan/uit! 
-  //previousPublishDate: "2018-09-18",  	    // Format is "YYY-MM-DD"
-  //previousMaturity: "CV",                   // kies 1 van deze 2 regels  	  
+  previousPublishDate: "2019-01-21",  	    // Format is "YYY-MM-DD"
+  previousMaturity: "GN-DEF",                   // kies 1 van deze 2 regels  	  
   //previousMaturity: "VV",  	                // kies 1 van deze 2 regels
 
   //-- Optionele parameters:
