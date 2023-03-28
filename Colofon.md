@@ -1,6 +1,10 @@
 Colofon
 -------
 
+<aside class="issue" title="Sectie verwijderen">
+   Kan de sectie <i>Colofon</i> weg?
+</aside>
+
 Documentnaam Handreiking informatie modelleren
 
 Projectnaam
