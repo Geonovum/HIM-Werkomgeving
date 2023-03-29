@@ -3,6 +3,10 @@ Inleiding
 
 ### Achtergrond
 
+<aside class="issue" title="Paragraaf verwijderen">
+   <b>G</b>: Deze paragraaf kan waarschijnlijk in z'n geheel weg. Lijkt ook voor onze toepassing niet persé nodig.
+</aside> 
+
 De komende jaren wordt de Omgevingswet- en regelgeving geschreven en
 geïmplementeerd. Deze wet zet in op een aantal verbeterdoelen, zoals meer
 gebruiksgemak, snellere en betere besluitvorming en minder onderzoekslasten. Om
@@ -25,6 +29,10 @@ dataspecificaties en de daarin voorkomende informatiemodellen.
 
 ### Toepassingsdomein
 
+<aside class="issue" title="Paragraaf herschrijven">
+   <b>G</b>: Relevant, maar herschrijven: niet specifiek voor DSO
+</aside> 
+
 Deze handreiking voor informatiemodellering richt zich specifiek op
 informatiemodellen voor het beschrijven van informatieproducten of datasets die
 gedeeld c.q. uitgewisseld, of geraadpleegd worden in de context van het DSO. Het
@@ -42,6 +50,10 @@ gebaseerd op de principes van de objectoriëntatie. Het technisch-conceptuele
 toepassingsdomein is daarmee bepaald tot deze omgeving.
 
 ### Normatieve referenties
+
+<aside class="issue" title="Paragraaf verwijderen">
+   <b>G</b>: Relevant, maar wel de vraag wat een goede manier is om dit op te nemen. Sowieso is dit overzicht niet heel compleet (voor ons doeleinde)
+</aside> 
 
 Deze methode maakt gebruik van verschillende normatieve documenten. Dit zijn
 zowel nationale als internationale standaarden. In dit hoofdstuk zijn deze

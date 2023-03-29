@@ -1,11 +1,12 @@
-Informatiemodellering – algemene aspecten
-=========================================
+# Informatiemodellering – algemene aspecten
 
-In dit hoofdstuk een omschrijving van het gebruik van dataspecificaties en het
-maakproces in de context van het DSO.
+<aside class="issue" title="Hoofdstuk herschrijven">
+   <b>G</b>: Waardevolle structuur en onderwerpen. Herschrijven voor modelleren bij Geonovum i.p.v. DSO. 
+</aside> 
 
-Rol van dataspecificaties, informatiemodellen en relatie met stelselscatalogus.
--------------------------------------------------------------------------------
+In dit hoofdstuk een omschrijving van het gebruik van dataspecificaties en het maakproces in de context van het DSO.
+
+## Rol van dataspecificaties, informatiemodellen en relatie met stelselscatalogus.
 
 Het DSO is een infrastructuur voor gegevensuitwisseling, aanbod en gebruik, rond
 het thema leefomgeving/omgevingswet. Voor het ontwerp van een infrastructuur
@@ -127,8 +128,7 @@ Voor de opname van metadata in de stelselcatalogus is de volgende eis opgenomen:
 Beide bovenstaande eisen waaraan de stelselcatalogus moet voldoen stellen ook
 voorwaarden aan de informatiemodellen.
 
-Principes.
-----------
+## Principes
 
 Het basisprincipe achter een dataspecificatie is dat een dataset in voldoende
 mate beschreven moet zijn wil data betekenisvol gebruikt kunnen worden. Uit laan
@@ -144,8 +144,7 @@ Informatiehuizen hebben daarin een eigen verantwoordelijkheid voor het
 beschrijven van de betekenis van hun datasets en ook een gezamenlijke
 verantwoordelijkheid voor afstemming van betekenis tussen informatiehuizen.
 
-Het proces.
------------
+## Het proces
 
 Het DSO is niet een infrastructuur waarvan alle onderdelen vanuit niets
 opgebouwd hoeven te worden. Hetzelfde geldt voor de dataspecificaties van de
@@ -185,8 +184,7 @@ gedeeltelijk geautomatiseerd te converteren naar UML informatiemodellen. De
 conversieproducten leveren dan een eerste versie van een informatiemodel op dat
 daarna aangepast kan worden.
 
-Rollen in het proces
---------------------
+## Rollen in het proces
 
 Een informatiehuis is verantwoordelijk voor de kwaliteit van de gegevens binnen
 het huis en het aanbod daarvan aan het DSO. Van uit die rol is het
@@ -225,20 +223,17 @@ de rollen zijn de volgende profielen van belang:
 Details over verantwoordelijkheden en gedetailleerde afspraken zijn specifiek
 voor elk informatiehuis en kunnen hier niet worden opgenomen.
 
-Validatie, vaststelling en beheer
----------------------------------
+## Validatie, vaststelling en beheer
 
-Na het volgen van de methode ligt er een dataspecificatie. Voor het bewaken van
-de kwaliteit van de toepassing van de methode is een conformiteittoets en
-procedure daarvoor een bruikbaar middel. Een conformiteittoets is een meet- en
-controle-instrument maar ook een methode voor review van
-kandidaat-specificaties. In bijlage 2 is een abstracte versie van een
-conformiteittoets opgenomen. Voor een operationele toepassing moet die
-uitgewerkt worden tot concrete testregels en procedure.
+Na het volgen van de methode ligt er een dataspecificatie.
 
-Een volgende stap is de formele vaststelling. Hieraan vooraf gaat meestal een
-consultatie. Afhankelijk van het informatiehuis zal dit verschillend ingevuld
-worden. Een werkveldconsultatie, een nationale consultatie, een beperkte expert
+### Validatie
+
+Voor het bewaken van de kwaliteit van de toepassing van de methode is een conformiteittoets en procedure daarvoor een bruikbaar middel. Een conformiteittoets is een meet- en controle-instrument maar ook een methode voor review van kandidaat-specificaties. In bijlage 2 is een abstracte versie van een conformiteittoets opgenomen. Voor een operationele toepassing moet die uitgewerkt worden tot concrete testregels en procedure.
+
+### Vaststelling
+
+Een volgende stap is de formele vaststelling. Hieraan vooraf gaat meestal een consultatie. Afhankelijk van het informatiehuis zal dit verschillend ingevuld worden. Een werkveldconsultatie, een nationale consultatie, een beperkte expert
 consultatie zijn voorbeelden. Centraal staat dat na consultatie en verwerking
 daarvan een dataspecificatie wordt vastgesteld en bekrachtigd. Bekrachtiging is
 in drie stappen: binnen de context van een informatiehuis, binnen de context van
@@ -247,28 +242,21 @@ het DSO en op nationaal niveau.
 Als dat doorlopen is, is de dataspecificatie een semantische standaard. De
 standaard voor de inhoudelijke beschrijving van een domein.
 
-Beheer.
+### Beheer
 
 Een standaard die niet in beheer is, is geen standaard.
 Beheerverantwoordelijkheid omvat velerlei facetten die vaak ook situationeel
 afhankelijk zijn, in dit geval ook van de afzonderlijke informatiehuizen. Binnen
 de context van de individuele informatiehuizen is het verstandig te kiezen voor
 een zelfde algemeen uitgangspunt voor het inrichten van een ontwikkel- en
-beheeromgeving zoals beschreven in de BOMOS[^1] standaard (Beheer en
+beheeromgeving zoals beschreven in de [BOMOS](https://www.forumstandaardisatie.nl/open-standaarden/voor-beheerders/beheer-van-standaarden/) standaard (Beheer en
 Ontwikkelmodel Open Standaarden) en het BOMOS2i stappenplan. Uit deze standaard
 worden een aantal operationele facetten opgenoemd.
 
-[^1]: Zie:
-<https://www.forumstandaardisatie.nl/open-standaarden/voor-beheerders/beheer-van-standaarden/>
-
-Communicatie: Promotie en publicatie.
-
-Implementatie ondersteuning: Helpdesk, Validatie en certificatie.
-
-Wijzigingsprotocol: Indienen, beoordeling, verwerking.
-
-Versiebeheer: Visie op operationele toepassing versies en termijnen voor
-opvolgende versies.
+ - Communicatie: Promotie en publicatie.
+ - Implementatie ondersteuning: Helpdesk, Validatie en certificatie.
+ - Wijzigingsprotocol: Indienen, beoordeling, verwerking.
+ - Versiebeheer: Visie op operationele toepassing versies en termijnen voor opvolgende versies.
 
 Of er een gemeenschappelijke governance komt van dataspecificaties over de
 informatiehuizen heen is hier niet te bepalen. Het rapport Globaal ontwerp en
@@ -277,6 +265,4 @@ informatiehuizen heen bij de stelselcatalogus te leggen. Deze beheerder
 organiseert het beheer aan de stelselcatalogus in een beheeroverleg met de
 betrokkenen zoals de modelleurs van de informatiehuizen. Hierdoor kan de
 stelselcatalogus beheerder vanuit een neutrale rol komen tot harmonisatie-,
-verbeter- en afstemmingsvoorstellen tussen de dataspecificaties.[^2]
-
-[^2]: Globaal ontwerp en prototype stelselcatalogus
+verbeter- en afstemmingsvoorstellen tussen de dataspecificaties (Globaal ontwerp en prototype stelselcatalogus).
