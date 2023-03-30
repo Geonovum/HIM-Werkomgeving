@@ -88,3 +88,13 @@ r
 {
   color: red;
 }
+
+
+/*--Definitie van tekstmarkering die verwijderd mag worden--------------------------*/
+remove
+{
+  color: #9f001c;
+  background-color: #ffecef;
+  border-radius: 5px;
+  padding: 1px 3px 1px 3px;
+}
