@@ -22,21 +22,11 @@ dataspecificaties en de daarin voorkomende informatiemodellen.</remove></p>
    <b>G</b>: Relevant, maar herschrijven: niet specifiek voor DSO
 </aside> 
 
-Deze handreiking voor informatiemodellering richt zich specifiek op
-informatiemodellen voor het beschrijven van informatieproducten of datasets die
-gedeeld c.q. uitgewisseld, of geraadpleegd worden <remove>in de context van het DSO</remove>. Het
-zijn informatieproducten waarvan standaardisatie nodig is in het kader van
-interoperabiliteit. Voor producten die niet gedeeld worden speelt het
-interoperabiliteitsvraagstuk niet en is deze handreiking niet van toepassing.
+<p><keep>Deze handreiking voor informatiemodellering richt zich specifiek op informatiemodellen voor het beschrijven van informatieproducten of datasets die gedeeld c.q. uitgewisseld, of geraadpleegd worden</keep> <remove>in de context van het DSO</remove>. <keep>Het zijn informatieproducten waarvan standaardisatie nodig is in het kader van interoperabiliteit. Voor producten die niet gedeeld worden speelt het interoperabiliteitsvraagstuk niet en is deze handreiking niet van toepassing.</keep></p>
 
-Specifiek is de <remove>handreiking voor informatiehuizen binnen het DSO</remove>  en de vanuit
-die huizen ontsloten informatieproducten. In een bredere context is de
-handreiking <remove>van toepassing voor alle informatieproducten binnen het DSO</remove>  waarbij
-informatiemodellen worden gebruikt voor de beschrijving daarvan.
+<p><remove>Specifiek is de handreiking voor informatiehuizen binnen het DSO en de vanuit die huizen ontsloten informatieproducten. In een bredere context is de handreiking van toepassing voor alle informatieproducten binnen het DSO waarbij informatiemodellen worden gebruikt voor de beschrijving daarvan.</remove></p>
 
-Het in deze handreiking gebruikte metamodel voor informatiemodellering is
-gebaseerd op de principes van de objectoriëntatie. Het technisch-conceptuele
-toepassingsdomein is daarmee bepaald tot deze omgeving.
+<p><keep>Het in deze handreiking gebruikte metamodel voor informatiemodellering is gebaseerd op de principes van de objectoriëntatie. Het technisch-conceptuele toepassingsdomein is daarmee bepaald tot deze omgeving.</keep></p>
 
 ### Normatieve referenties
 
@@ -44,13 +34,13 @@ toepassingsdomein is daarmee bepaald tot deze omgeving.
    <b>G</b>: Relevant, maar wel de vraag wat een goede manier is om dit op te nemen. Sowieso is dit overzicht niet heel compleet (voor ons doeleinde)
 </aside> 
 
-Deze methode maakt gebruik van verschillende normatieve documenten. Dit zijn
-zowel nationale als internationale standaarden. In dit hoofdstuk zijn deze
-normatieve referenties opgenomen. Voor een goede toepassing van dit document is
-kennis nodig van de opgenomen referenties.
+<p><keep>Deze methode maakt gebruik van verschillende normatieve documenten. Dit zijn
+zowel nationale als internationale standaarden. In dit hoofdstuk zijn deze normatieve referenties opgenomen. Voor een goede toepassing van dit document is kennis nodig van de opgenomen referenties.</keep></p>
 
- - Metamodel voor informatiemodellering (MIM); VNG Realisatie, Kadaster, Geonovum.
- - NEN 3610:2011/A1:2016 Basismodel Geo-informatie – Termen, definities relaties en algemene regels voor de uitwisseling van informatie over aan de aarde gerelateerde ruimtelijke objecten.
- - NEN-EN-ISO 19105:2005 Geographic information – Conformance and testing
- - NEN-EN-ISO 19131:2008 Geographic Information – Data product specifications.
- - NEN-EN-ISO 19135:2007 Geo-informatie - Procedures for registration of geographical information items.
+<ul>
+   <li><keep>Metamodel voor informatiemodellering (MIM); VNG Realisatie, Kadaster, Geonovum.</keep></li>
+   <li><keep>NEN 3610:2011/A1:2016 Basismodel Geo-informatie – Termen, definities relaties en algemene regels voor de uitwisseling van informatie over aan de aarde gerelateerde ruimtelijke objecten.</keep></li>
+   <li><keep>NEN-EN-ISO 19105:2005 Geographic information – Conformance and testing</keep></li>
+   <li><keep>NEN-EN-ISO 19131:2008 Geographic Information – Data product specifications.</keep></li>
+   <li><keep>NEN-EN-ISO 19135:2007 Geo-informatie - Procedures for registration of geographical information items.</keep></li>
+</ul>
