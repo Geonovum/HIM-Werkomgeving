@@ -98,3 +98,11 @@ remove
   border-radius: 5px;
   padding: 1px 3px 1px 3px;
 }
+
+keep
+{
+  color: #1d701d;
+  background-color: #dff7df;
+  border-radius: 5px;
+  padding: 1px 3px 1px 3px;
+}
