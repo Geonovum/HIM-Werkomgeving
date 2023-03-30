@@ -5,23 +5,23 @@ Colofon
    Kan de sectie <i>Colofon</i> weg?
 </aside>
 
-Documentnaam Handreiking informatie modelleren
+<p><remove>Documentnaam Handreiking informatie modelleren</remove></p>
 
-Projectnaam
+<p><remove>Projectnaam</remove></p>
 
-Projectnummer PR04
+<p><remove>Projectnummer PR04</remove></p>
 
-Versienummer 1.0
+<p><remove>Versienummer 1.0</remove></p>
 
-Locatie Amersfoort
+<p><remove>Locatie Amersfoort</remove></p>
 
-Projectleider Eric van Capelleveen
+<p><remove>Projectleider Eric van Capelleveen</remove></p>
 
-Contactpersoon Paul Janssen
+<p><remove>Contactpersoon Paul Janssen</remove></p>
 
-Auteurs Paul Janssen
+<p><remove>Auteurs Paul Janssen</remove></p>
 
-Versiehistorie
+<p><remove>Versiehistorie</remove></p>
 
 | Versie | Datum      | Door | Sectie  | Omschrijving                      |
 |--------|------------|------|---------|-----------------------------------|
