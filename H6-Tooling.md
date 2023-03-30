@@ -1,1 +1,67 @@
-H6-Tooling
+# Tooling
+
+<aside class="issue" title="Uitleg over modelleertools opnemen">
+   <p><b>G</b>: Hoe we dit het beste kunnen indelen weet ik nog niet. Ik stel mij nu grofweg drie keuzes voor:
+      <ol>
+         <li>Een apart hoofdstuk opnemen voor tooling</li>
+         <li>Tooling onderbrengen bij de stappen in het modelleringsproces</li>
+         <li>Tussenoplossing: tooling in apart hoofdstuk beschrijven en vanuit stappenplan ernaar verwijzen</li>
+      </ol>
+   Dit moet zich gedurende het proces verder uitkristaliseren. Op deze manier heeft het nu in elk geval een plek.</p>
+</aside>
+
+## Enterprise Architect (EA)
+
+<aside class="issue" title="Uitleg EA invoegen">
+   Bestaand document met uitleg over EA invoegen of een verwijzing naar dat document openemen.
+</aside>
+
+## Subversion (SVN)
+
+<aside class="issue" title="Uitleg Subversion invoegen">
+   Bestaand document met uitleg over Subversion invoegen of een verwijzing naar dat document openemen. Hiervoor zijn verschillende handleidingen beschikbaar:
+   <ul>
+      <li>...</li>
+      <li>...</li>
+   </ul>
+</aside>
+
+## Imvertor
+
+<aside class="issue" title="Uitleg Imvertor invoegen">
+   Bestaand document met uitleg over Imvertor invoegen of een verwijzing naar dat document openemen. Hiervoor verwijzen we op dit moment naar de website van Armatiek (ontwikkelaar van Imvertor) waarop veel gedocumenteerd is. Zijn er onderwerpen waarover we zelf nog iets op willen nemen en waarmee we het gebruik binnen Geonovum beter kunnen faciliteren?
+</aside>
+
+## Vocbench
+
+<aside class="issue" title="Uitleg Vocbench invoegen">
+   Bestaand document met uitleg over Vocbench invoegen of een verwijzing naar dat document openemen. Hiervoor zijn powerpointsheets gemaakt. Verder heeft Vocbench zelf niet-gebruiksvriendelijke documentatie.
+</aside>
+
+## ReSpec
+
+<aside class="issue" title="Uitleg ReSpec invoegen">
+   Bestaand document met uitleg over ReSpec invoegen of een verwijzing naar dat document openemen.
+</aside>
+
+## GitHub
+
+<aside class="issue" title="Uitleg GitHub invoegen">
+   Bestaand document met uitleg over GitHub invoegen of een verwijzing naar dat document openemen.
+</aside>
+
+## Markdown (MD)
+
+<aside class="issue" title="Uitleg MD invoegen">
+   Bestaand document met uitleg over MD invoegen of een verwijzing naar dat document openemen. Willen we hier überhaupt wat over zeggen? Misschien wel handig om een soort cheat sheet voor ReSpec flavoured markdown te hebben. Maar bestaat die niet al ergens?
+</aside>
+
+## Word
+
+<aside class="issue" title="Uitleg Word naar MD e.a. invoegen">
+   Bestaand document met uitleg over Word naar MD e.a. invoegen of een verwijzing naar dat document openemen. 
+</aside>
+
+ - word2werkversie
+ - word2markdown
+ - word2publicatie
