@@ -1,7 +1,7 @@
 # Modelleren
 
 <aside class="issue" title="Voorbeelden van bestaande Geonovum-modellen">
-    In dit hoofdstuk, in een apart hoofdstuk of op een andere plek in het document zou het waardevol zijn om voorbeelden uit bestaande modellen te geven. In het kader van hoe modelleren we? Een andere optie is om één (fictieve) casus door verschillende modelleurs te laten modelleren. Op deze manier kun je met voorbeelden laten zien hoe je een casus op verschillende manieren aan kunt pakken binnen de kaders van de standaarden.
+    <b>G</b>: In dit hoofdstuk, in een apart hoofdstuk of op een andere plek in het document zou het waardevol zijn om voorbeelden uit bestaande modellen te geven. In het kader van hoe modelleren we? Een andere optie is om één (fictieve) casus door verschillende modelleurs te laten modelleren. Op deze manier kun je met voorbeelden laten zien hoe je een casus op verschillende manieren aan kunt pakken binnen de kaders van de standaarden.
 </aside>
 
 <aside class="issue" title="In dit hoofdstuk ook Geometrie in model behandelen (GIMEG)"></aside>
@@ -21,7 +21,7 @@
 <aside class="issue" title="In dit hoofdstuk ook Basisgeometrie (externe geometriereferentie) behandelen"></aside>
 
 <aside class="issue" title="Verwijzing naar MIM">
-    G: Aan de ene kant is het fijn dat dit hier uitgelegd wordt. Aan de andere kant krijg je versnippering. Mogelijk komt deze tekst niet uit de meest actuele MIM-versie. Bovendien wil je dat niet bij elke nieuwe versie weer hoeven aanpassen. Hier moeten we goed over nadenken. Overigens speelt dit op wel meer plekken.
+    <b>G</b>: Aan de ene kant is het fijn dat dit hier uitgelegd wordt. Aan de andere kant krijg je versnippering. Mogelijk komt deze tekst niet uit de meest actuele MIM-versie. Bovendien wil je dat niet bij elke nieuwe versie weer hoeven aanpassen. Hier moeten we goed over nadenken. Overigens speelt dit op wel meer plekken.
 </aside>
 
 <p><keep>In dit hoofdstuk wordt een metamodel beschreven voor het opstellen van een informatiemodel. Centraal hierin staat het metamodel voor informatiemodellering [MIM](https://docs.geostandaarden.nl/mim/mim/). Het metamodel omvat de informatie-elementen die in een informatiemodel kunnen voorkomen en de beschrijvende informatie die bij die elementen hoort. Naast het metamodel zijn er ook een aantal regels opgenomen voor modelleerconstructies.</keep> <remove>Uitgangspunt is dat het metamodel en de constructies leiden tot een vergelijkbare vorm van informatiemodellering binnen en tussen de informatiehuizen.</remove>
