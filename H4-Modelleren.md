@@ -42,7 +42,7 @@
 
 <p><duplicate>Beschrijft hoe de in het conceptuele model onderscheiden concepten gebruikt worden bij de interactie tussen systemen en hun gebruikers en tussen systemen onderling. Anders gezegd, een model van de representatie van informatie over de werkelijkheid in digitale registraties en in de uitwisseling daartussen. Het gaat hierbij, in tegenstelling tot een conceptueel model, dus veel meer om het ‘hoe’. Het slaat de brug tussen werkelijkheid en systemen maar beschrijft nog niet de implementatie in die systemen. Een dergelijk model wordt in een formele taal beschreven en wordt waar mogelijk gegenereerd vanuit het conceptueel model. Het logisch model wordt opgesteld voor ICT-interoperabiliteit, voor gebruik door met name de ontwerpers, bouwers en beheerders van ICT-voorzieningen.</duplicate></p>
 
-### Fysiek of technisch gegevens- of datamodel*
+### Fysiek of technisch gegevens- of datamodel
 
 <p><duplicate>Specificeert de structuur en eigenschappen van de technologie waarin de informatie wordt vastgelegd of uitgewisseld. Dit is sterk afhankelijk van de gebruikte opslagtechnologie zoals een specifieke database of de servicetechnologie zoals XML, GML, SOAP, REST, (Geo)JSON, LinkedData e.d. Het kan tevens informatie bevatten over de manier waarop berichten ‘verpakt’ worden, het (internet)protocol en de logistiek van het berichtenverkeer. De technische specificaties worden over het algemeen zoveel als mogelijk gegenereerd uit het logisch informatiemodel. Deze specificaties worden opgesteld voor ‘machines’, te gebruiken door software-ontwikkelaars.</duplicate></p>
 
