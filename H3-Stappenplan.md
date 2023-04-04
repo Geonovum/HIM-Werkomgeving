@@ -1,4 +1,4 @@
-# Stappenplan 
+# Stappenplan
 
 <aside class="issue" title="Hoofdstuk uitbreiden">
    <b>G</b>: Dit hoofdstuk biedt een mooie basis waarop we met de verzamelde documenten goede aanvullingen en aanscherpingen kunnen maken. Sommige onderwerpen mogen verder uitgediept worden. De structuur moet misschien ook aangepast worden.
