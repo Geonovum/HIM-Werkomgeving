@@ -89,8 +89,7 @@ r
   color: red;
 }
 
-
-/*--Definitie van tekstmarkering die verwijderd mag worden--------------------------*/
+/*--Definitie markering van tekst die verwijderd mag worden--------------------------*/
 remove
 {
   color: #9f001c;
@@ -99,6 +98,7 @@ remove
   padding: 1px 3px 1px 3px;
 }
 
+/*--Definitie markering van tekst die behouden mag worden---------------------------*/
 keep
 {
   color: #1d701d;
@@ -107,6 +107,7 @@ keep
   padding: 1px 3px 1px 3px;
 }
 
+/*--Definitie markering van tekst die gekopiëerd is uit een brondocument------------*/
 duplicate
 {
   color: #a66a03;
