@@ -2,7 +2,9 @@
 
 ##  Bijlage 1: Abstracte conformiteittoets: Dataspecificatie voor DSO.
 
-Inleiding
+<aside class="issue" title="Is deze tekst ook in algemene zin relevant?"></aside>
+
+### Inleiding
 
 De test suite voor de conformiteittoets volgt de regels van ISO 19105 Geographic
 information – Conformance and testing. Deze handreiking beschrijft de regels
@@ -12,7 +14,7 @@ die context. Met de term dataspecificatie wordt in de test bedoeld het object
 dat wordt getest. De conformiteittest bestaat uit testregels die testen of een
 dataspecificatie voldoet aan deze handreiking.
 
-**Abstracte test versus Uitvoeringstest.**
+### Abstracte test versus Uitvoeringstest
 
 Deze test suite bevat de beschrijving van de abstracte test. Toepassing hiervan
 in een uitvoeringsformat leidt tot een uitvoeringstest. Deze laatste bevat een
@@ -48,7 +50,7 @@ conformiteitklassen
 3.  Niet van toepassing: Het testonderwerp is niet van toepassing voor deze
     dataspecificatie.
 
-**Testregels: ATS dataspecificatie voor DSO.**
+### Testregels: ATS dataspecificatie voor DSO
 
 1.1 Scope van de dataspecificatie.
 
@@ -162,6 +164,8 @@ conformiteitklassen
 
 ## Bijlage 2: Termen en afkortingen
 
+<aside class="issue" title="Verwijzen naar begrippenkaders, o.a. NEN3610:2022"></aside>
+
 Termen
 
 | **term**                                           | **bron**                | **definitie**                                                                                                                                                             |
@@ -188,6 +192,8 @@ Termen
 
 ## Bijlage 3: Referentie implementatie MIM-alternatief 2
 
+<aside class="issue" title="Actualiteit controleren"></aside>
+
 Voorbeeld van een UML klassediagram met fictieve informatielelementen.
 MIM-alternatief 2 wordt hierin gevolgd. De naamgevingsconventie voor alternatief
 2 is hier niet toegepast.
@@ -196,104 +202,55 @@ MIM-alternatief 2 wordt hierin gevolgd. De naamgevingsconventie voor alternatief
 
 ## Bijlage 4: Voorbeeld Dataspecificatie template
 
-Deze bijlage beschrijft het template dat gebruikt kan worden voor het opstellen
+<aside class="issue" title="Is deze template ook in algemene zin relevant?"></aside>
+
+<p><remove>Deze bijlage beschrijft het template dat gebruikt kan worden voor het opstellen
 van een dataspecificatie document. Dit template is binnen deze opdracht niet
 gestandaardiseerd. Er is een voorbeeld template gemaakt dat als input kan dienen
 voor het verder afstemmen van gebruik door informatiehuizen:
 Dataspecificatie_Template_DSO.docx. Het voorbeeld is nog niet ontwikkeld voor
-toepassing van het metamodel MIM.  
+toepassing van het metamodel MIM.</remove></p> 
   
 Bij Geonovum wordt een methode ontwikkeld om de documentatie van
 geo-standaarden, waaronder dataspecificaties te beheren van uit een github
-omgeving en op het web te publiceren in HTML.  
-  
-Meer informatie hier over:  
-  
-Ontwikkelomgeving: <https://github.com/Geonovum/respec/wiki>
+omgeving en op het web te publiceren in HTML. Meer informatie hierover: 
 
-Voorbeeld 1: (hoofdstuk 5 is uit een UML gegenereerde objectcatalogus)
-
-<https://tools.geostandaarden.nl/respec/test/whitepapertest.html>
-
-Voorbeeld 2: <https://geonovum.github.io/Metadata-ISO19115/>
+ - [Ontwikkelomgeving](https://github.com/Geonovum/respec/wiki)
+ - [Voorbeeld 1](https://tools.geostandaarden.nl/respec/test/whitepapertest.html) (H5 is uit een UML gegenereerde objectcatalogus)
+ - [Voorbeeld 2](https://geonovum.github.io/Metadata-ISO19115/)
 
 ## Bijlage 5: Bibliografie
 
-GIMAReader Module 5 UML.
+<aside class="issue" title="Veel relevante documenten voor werkwijze modelleren"></aside>
 
-Gemeenschappelijk Afspraken Berichten, GAB (Federatief overleg
-beheerorganisaties basisregistraties en standaarden).
+<aside class="issue" title="Automatisch genereren: verwijzingen in tekst en LocalBiblio opnemen"></aside>
 
-Geonovum, iov Ministerie van Infrastructuur en Milieu, 2014. Globaal ontwerp
-Laaninfrastructuur.
-
-Geonovum, iov Ministerie van Infrastructuur en Milieu, 2015. Globaal ontwerp
-Gegevensstromen Laaninfrastructuur.
-
-Geonovum, iov Ministerie van Infrastructuur en Milieu, 2015. Globaal ontwerp en
-prototype stelselcatalogus.  
-  
-INSPIRE, 2008. Drafting Team "Data Specifications" – deliverable D2.6:
-Methodology for the development of data specifications.
-
-INSPIRE, 2014. Drafting Team "Data Specifications" – deliverable D2.5: General
-Conceptual Model.
-
-Kaderstellende notitie, URI-strategie. Versie 1.57 Concept 15-05-2017.
-Deelprogramma Digitaal Stelsel Omgevingswet.
-
-KING, 2015. Metamodel voor de Referentiemodellen Gemeentelijke Basisgegevens.
-Versie 0.6.
-
-Metamodel voor informatiemodellen. 2017. KING, Kadaster, Geonovum
-
-NEN 3610: 2011/A1:2016 Basismodel Geo-informatie – Termen, definities relaties
-en algemene regels voor de uitwisseling van informatie over aan de aarde
-gerelateerde ruimtelijke objecten.
-
-NEN-ISO/IEC 11404:2008 Information technology – General Purpose Datatypes (GPD)
-
-NEN-EN-ISO 19101-1:2014 Geographic information - Reference model - Part 1:
-Fundamentals
-
-NEN-EN-ISO 19103:2005 Geographic Information – Conceptual schema language.
-
-NEN-EN-ISO 19105:2005 Geographic information – Conformance and testing
-
-NEN-EN-ISO 19107:2005 Geographic information – Spatial schema
-
-NEN-EN-ISO 19109:2006 Geographic Information – Rules for application schema.
-
-NEN-EN-ISO 19110:2006 Geographic information - Methodology for feature
-cataloguing.
-
-NEN-EN-ISO 19115-1:2014 Geographic information - Metadata - Part 1:
-Fundamentals.
-
-NEN-EN-ISO 19117:2014 Geographic information – Portrayal.
-
-NEN-EN-ISO 19126:2009 Geographic information - Feature concept dictionaries and
-registers.
-
-NEN-EN-ISO 19131:2008 Geographic Information – Data product specifications.
-
-NEN-EN-ISO 19135:2007 Geographic information - Procedures for registration of
-geographical information items.
-
-NEN-EN-ISO 19136:2009 Geographic information - Geography Markup Language (GML).
-
-NEN-ISO/IEC 19501:2005 Information technology – Open distributed Processing
-Modelling Language (UML) Version 1.4.2
-
-[NPR-CEN/TR 15449-3:2012 Geographic information - Spatial data infrastructures -
-Part 3: Data centric
-view](https://www.nen.nl/NEN-Shop/Norm/NPRCENTR-1544932012-en.htm)
-
-INSPIRE Data Specification Extensions:
-<http://inspire-extensions.wetransform.to/>
-
-Werkgroep URI-Strategie, 2014. Voorstel URI strategie voor de basisregistraties.  
-<"http://www.pilod.nl/w/images/1/16/20141009_AdviesURIStrategieBasisregistraties_0.3.pdf">
-
-Werkgroep Best Practices, 2013. Metamodel voor structuurmodellen in
-(basis)registraties. Whitepaper (Geonovum).
+ 1. GIMAReader Module 5 UML.
+ 1. Gemeenschappelijk Afspraken Berichten, GAB (Federatief overleg beheerorganisaties basisregistraties en standaarden). 
+ 1. Geonovum, iov Ministerie van Infrastructuur en Milieu, 2014. Globaal ontwerp Laaninfrastructuur. 
+ 1. Geonovum, iov Ministerie van Infrastructuur en Milieu, 2015. Globaal ontwerp Gegevensstromen Laaninfrastructuur. 
+ 1. Geonovum, iov Ministerie van Infrastructuur en Milieu, 2015. Globaal ontwerp en prototype stelselcatalogus.     
+ 1. INSPIRE, 2008. Drafting Team "Data Specifications" – deliverable D2.6: Methodology for the development of data specifications. 
+ 1. INSPIRE, 2014. Drafting Team "Data Specifications" – deliverable D2.5: General Conceptual Model. 
+ 1. Kaderstellende notitie, URI-strategie. Versie 1.57 Concept 15-05-2017. Deelprogramma Digitaal Stelsel Omgevingswet. 
+ 1. KING, 2015. Metamodel voor de Referentiemodellen Gemeentelijke Basisgegevens. Versie 0.6. 
+ 1. Metamodel voor informatiemodellen. 2017. KING, Kadaster, Geonovum
+ 1. NEN 3610: 2011/A1:2016 Basismodel Geo-informatie – Termen, definities relaties en algemene regels voor de uitwisseling van informatie over aan de aarde gerelateerde ruimtelijke objecten. 
+ 1. NEN-ISO/IEC 11404:2008 Information technology – General Purpose Datatypes (GPD)
+ 1. NEN-EN-ISO 19101-1:2014 Geographic information - Reference model - Part 1: Fundamentals
+ 1. NEN-EN-ISO 19103:2005 Geographic Information – Conceptual schema language.
+ 1. NEN-EN-ISO 19105:2005 Geographic information – Conformance and testing
+ 1. NEN-EN-ISO 19107:2005 Geographic information – Spatial schema
+ 1. NEN-EN-ISO 19109:2006 Geographic Information – Rules for application schema.
+ 1. NEN-EN-ISO 19110:2006 Geographic information - Methodology for feature cataloguing.
+ 1. NEN-EN-ISO 19115-1:2014 Geographic information - Metadata - Part 1: Fundamentals.
+ 1. NEN-EN-ISO 19117:2014 Geographic information – Portrayal.
+ 1. NEN-EN-ISO 19126:2009 Geographic information - Feature concept dictionaries and registers.
+ 1. NEN-EN-ISO 19131:2008 Geographic Information – Data product specifications.
+ 1. NEN-EN-ISO 19135:2007 Geographic information - Procedures for registration of geographical information items.
+ 1. NEN-EN-ISO 19136:2009 Geographic information - Geography Markup Language (GML).
+ 1. NEN-ISO/IEC 19501:2005 Information technology – Open distributed Processing Modelling Language (UML) Version 1.4.2
+ 1. [NPR-CEN/TR 15449-3:2012 Geographic information - Spatial data infrastructures - Part 3: Data centric view](https://www.nen.nl/NEN-Shop/Norm/NPRCENTR-1544932012-en.htm)
+ 1. [INSPIRE Data Specification Extensions](http://inspire-extensions.wetransform.to/)
+ 1. Werkgroep URI-Strategie, 2014. [Voorstel URI strategie voor de basisregistraties](http://www.pilod.nl/w/images/1/16/20141009_AdviesURIStrategieBasisregistraties_0.3.pdf)
+ 1. Werkgroep Best Practices, 2013. Metamodel voor structuurmodellen in (basis)registraties. Whitepaper (Geonovum).
