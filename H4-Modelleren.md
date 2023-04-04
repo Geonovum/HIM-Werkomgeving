@@ -1,6 +1,26 @@
-# Modelleren 
+# Modelleren
 
-<aside class="issue" title="Verwijzen naar MIM">
+<aside class="issue" title="Voorbeelden van bestaande Geonovum-modellen">
+    In dit hoofdstuk, in een apart hoofdstuk of op een andere plek in het document zou het waardevol zijn om voorbeelden uit bestaande modellen te geven. In het kader van hoe modelleren we? Een andere optie is om één (fictieve) casus door verschillende modelleurs te laten modelleren. Op deze manier kun je met voorbeelden laten zien hoe je een casus op verschillende manieren aan kunt pakken binnen de kaders van de standaarden.
+</aside>
+
+<aside class="issue" title="In dit hoofdstuk ook Geometrie in model behandelen (GIMEG)"></aside>
+
+<aside class="issue" title="In dit hoofdstuk ook Geometrie in uitwisselingsformaten behandelen"></aside>
+
+<aside class="issue" title="In dit hoofdstuk ook CRS in uitwisselingsformaten behandelen"></aside>
+
+<aside class="issue" title="In dit hoofdstuk ook Lange lijnenadvies behandelen"></aside>
+
+<aside class="issue" title="In dit hoofdstuk ook Keuzehulp standaarden (Raamwerk Geostandaarden 4.0) behandelen">
+    <b>G</b>: Het zijn standaarden voor allerlei verschillende onderdelen van het proces. Kunnen we dit op één plek benoemen, of is het slimmer om per onderdeel te verwijzen, zoals het Raamwerk zelf ook is opgezet? Hoe verhoudt zich dit bovendien tot de paragraaf normatieve referenties (1.3)?
+</aside>
+
+<aside class="issue" title="In dit hoofdstuk ook Basismodel Geo-informatie (NEN3610:2022) behandelen"></aside>
+
+<aside class="issue" title="In dit hoofdstuk ook Basisgeometrie (externe geometriereferentie) behandelen"></aside>
+
+<aside class="issue" title="Verwijzing naar MIM">
     G: Aan de ene kant is het fijn dat dit hier uitgelegd wordt. Aan de andere kant krijg je versnippering. Mogelijk komt deze tekst niet uit de meest actuele MIM-versie. Bovendien wil je dat niet bij elke nieuwe versie weer hoeven aanpassen. Hier moeten we goed over nadenken. Overigens speelt dit op wel meer plekken.
 </aside>
 
@@ -54,7 +74,7 @@
     Dit document gebruikt het logisch informatiemodel als het niveau waarop informatiemodellen worden beschreven.
 </aside>
 
-### Keuze uit alternatieven van MIM
+## Keuze uit alternatieven van MIM
 
 <p><duplicate>Het metamodel MIM benoemt op enkele punten alternatieve oplossingen.</duplicate> <remove>Voor toepassing binnen het DSO wordt een keuze gemaakt uit deze alternatieven</remove>:<duplicate>Relatiesoort of relatierol. MIM heeft twee alternatieven voor de modellering en metadatering van relaties tussen objecttype. Een relatie wordt gerealiseerd door een ‘relatiesoort’.</duplicate>
 <ul>
@@ -66,13 +86,14 @@
     Alternatief 2 wordt gevolgd in dit document.
 </aside>
 
-### Naamgevingsconventies
+## Naamgevingsconventies
 
 <p><keep>MIM heeft twee alternatieven voor naamgevingsconventie van informatie-elementen.</keep></p>
 
 <ul>
     <li><duplicate>Alternatief 1: natuurlijke taal, die dichtbij de gebruiker staat. Met natuurlijke taal wordt bedoeld, zoals de gebruikers erover praten, in normaal Nederlands. Veelal zijn dit alleen letters en cijfers, met spaties. Koppeltekens (‘-’ of ‘_’) kunnen gebruikt worden, indien gewenst, alsmede diakrieten. Deze conventie wordt in MIM verplicht gesteld voor het conceptuele niveau.</duplicate></li>
     <li><duplicate>Alternatief 2:taal (ook) leesbaar door systemen. Met machine leesbare taal wordt bedoeld dat deze eenvoudig door systemen te verwerken is. Veelal zijn dit alleen letters en cijfers, zonder spaties, zonder diakrieten. Koppeltekens (‘-’ of ‘_’) kunnen gebruikt worden, maar dit wordt veelal vermeden. Deze conventie wordt in MIM verplicht gesteld voor het logische niveau.</duplicate></li>
+</ul>
 
 <aside class="note" title="Regel">
     Alternatief 2 wordt gevolgd in dit document.
@@ -94,7 +115,9 @@
 
 ## Objectidentificatie
 
-<aside class="issue" title="Mogelijk beschreven in document over UOI"></aside>
+<aside class="issue" title="In dit hoofdstuk Object-identificatie UOI-ontwerp behandelen">
+    <b>G</b>: Ook iets over zeggen als dit nog <i>in progress</i> is, of als deze ontwikkeling nooit is uitgewerkt. Hierover staat wel een document op onze GitHub, dus waardevol om in elk geval te noemen welke gedachten en afspraken hierover wel of niet gelden.
+</aside>
 
 <p><duplicate>De objectidentificatie zorgt voor het identificeren van instanties van objecttypen. In feite dus de identificatie van de objecten in een registratie. Dit is niet hetzelfde als de identificatie van objecten in de werkelijkheid. Voor dat laatste zijn er andere mechanismen die voor elke registratie specifiek kunnen zijn. De objectidentificatie is eigenlijk de elektronische pointer of sleutel naar de objecten in de registratie. Omdat die sleutel een bruikbare waarde moet hebben over alle registraties heen, binnen Nederland en ook wereldwijd, is het van belang om een systematiek voor wereldwijde unieke identificatie van objecten toe te passen. Om dit te realiseren wordt er binnen het DSO een URI strategie ontwikkeld voor unieke objectidentificatie (Kaderstellende notitie, URI-strategie). Voor de toepassing hiervan wordt verwezen naar dat document.</duplicate></p>
 

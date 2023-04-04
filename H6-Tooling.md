@@ -44,6 +44,8 @@
    Bestaand document met uitleg over ReSpec invoegen of een verwijzing naar dat document openemen.
 </aside>
 
+<aside class="issue" title="In dit hoofdstuk Toepassing ReSpec (wiki) behandelen"></aside>
+
 ## GitHub
 
 <aside class="issue" title="Uitleg GitHub invoegen">

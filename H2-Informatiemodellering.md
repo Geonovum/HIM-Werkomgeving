@@ -218,9 +218,15 @@ de rollen zijn de volgende profielen van belang:</keep></p>
 
 ### Validatie
 
+<aside class="issue" title="Is er een procesbeschrijving voor validatie van een standaard?"></aside>
+
+<aside class="issue" title="Testen en validatie komt ook terug in 3.6"></aside>
+
 <p><keep>Voor het bewaken van de kwaliteit van de toepassing van de methode is een conformiteittoets en procedure daarvoor een bruikbaar middel. Een conformiteittoets is een meet- en controle-instrument maar ook een methode voor review van kandidaat-specificaties. In bijlage 2 is een abstracte versie van een conformiteittoets opgenomen. Voor een operationele toepassing moet die uitgewerkt worden tot concrete testregels en procedure.</keep></p>
 
 ### Vaststelling
+
+<aside class="issue" title="Is er een procesbeschrijving voor vaststelling en consultatie van een standaard?"></aside>
 
 <p><keep>Een volgende stap is de formele vaststelling. Hieraan vooraf gaat meestal een consultatie. Afhankelijk van</keep> <remove>het informatiehuis</remove> <keep>zal dit verschillend ingevuld worden. Een werkveldconsultatie, een nationale consultatie, een beperkte expert consultatie zijn voorbeelden. Centraal staat dat na consultatie en verwerking daarvan een dataspecificatie wordt vastgesteld en bekrachtigd.</keep> <remove>Bekrachtiging is in drie stappen: binnen de context van een informatiehuis, binnen de context van het DSO en op nationaal niveau.</remove> <keep>Als dat doorlopen is, is de dataspecificatie een semantische standaard. De standaard voor de inhoudelijke beschrijving van een domein.</keep></p>
 
@@ -234,5 +240,13 @@ de rollen zijn de volgende profielen van belang:</keep></p>
     <li><keep>Wijzigingsprotocol: Indienen, beoordeling, verwerking.</keep></li>
     <li><keep>Versiebeheer: Visie op operationele toepassing versies en termijnen voor opvolgende versies.</keep></li>
 </ul>
+
+<aside class="issue" title="Relatie met: Beheer basis geo-standaarden"></aside>
+
+<aside class="issue" title="Relatie met: Wijzigingsprotocol Geostandaarden"></aside>
+
+<aside class="issue" title="Relatie met: Wijzigingsprotocol IM Geluid"></aside>
+
+<aside class="issue" title="Relatie met: Strategie Semantic Versioning DiSGeo"></aside>
 
 <p><remove>Of er een gemeenschappelijke governance komt van dataspecificaties over de informatiehuizen heen is hier niet te bepalen. Het rapport Globaal ontwerp en prototype stelselcatalogus adviseert om het beheer van semantiek over de informatiehuizen heen bij de stelselcatalogus te leggen. Deze beheerder organiseert het beheer aan de stelselcatalogus in een beheeroverleg met de betrokkenen zoals de modelleurs van de informatiehuizen. Hierdoor kan de stelselcatalogus beheerder vanuit een neutrale rol komen tot harmonisatie-, verbeter- en afstemmingsvoorstellen tussen de dataspecificaties (Globaal ontwerp en prototype stelselcatalogus).</remove></p>
