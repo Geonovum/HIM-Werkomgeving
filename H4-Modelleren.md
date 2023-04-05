@@ -4,21 +4,21 @@
     <b>G</b>: In dit hoofdstuk, in een apart hoofdstuk of op een andere plek in het document zou het waardevol zijn om voorbeelden uit bestaande modellen te geven. In het kader van hoe modelleren we? Een andere optie is om één (fictieve) casus door verschillende modelleurs te laten modelleren. Op deze manier kun je met voorbeelden laten zien hoe je een casus op verschillende manieren aan kunt pakken binnen de kaders van de standaarden.
 </aside>
 
-<aside class="issue" title="In dit hoofdstuk ook Geometrie in model behandelen (GIMEG)"></aside>
+<aside class="issue" title="In dit hoofdstuk Geometrie in model behandelen (GIMEG)"></aside>
 
-<aside class="issue" title="In dit hoofdstuk ook Geometrie in uitwisselingsformaten behandelen"></aside>
+<aside class="issue" title="In dit hoofdstuk Geometrie in uitwisselingsformaten behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk ook CRS in uitwisselingsformaten behandelen"></aside>
+<aside class="issue" title="In dit hoofdstuk CRS in uitwisselingsformaten behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk ook Lange lijnenadvies behandelen"></aside>
+<aside class="issue" title="In dit hoofdstuk Lange lijnenadvies behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk ook Keuzehulp standaarden (Raamwerk Geostandaarden 4.0) behandelen">
+<aside class="issue" title="In dit hoofdstuk Keuzehulp standaarden (Raamwerk Geostandaarden 4.0) behandelen">
     <b>G</b>: Het zijn standaarden voor allerlei verschillende onderdelen van het proces. Kunnen we dit op één plek benoemen, of is het slimmer om per onderdeel te verwijzen, zoals het Raamwerk zelf ook is opgezet? Hoe verhoudt zich dit bovendien tot de paragraaf normatieve referenties (1.3)?
 </aside>
 
-<aside class="issue" title="In dit hoofdstuk ook Basismodel Geo-informatie (NEN3610:2022) behandelen"></aside>
+<aside class="issue" title="In dit hoofdstuk Basismodel Geo-informatie (NEN3610:2022) behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk ook Basisgeometrie (externe geometriereferentie) behandelen"></aside>
+<aside class="issue" title="In dit hoofdstuk Basisgeometrie (externe geometriereferentie) behandelen"></aside>
 
 <aside class="issue" title="Verwijzing naar MIM">
     <b>G</b>: Aan de ene kant is het fijn dat dit hier uitgelegd wordt. Aan de andere kant krijg je versnippering. Mogelijk komt deze tekst niet uit de meest actuele MIM-versie. Bovendien wil je dat niet bij elke nieuwe versie weer hoeven aanpassen. Hier moeten we goed over nadenken. Overigens speelt dit op wel meer plekken.

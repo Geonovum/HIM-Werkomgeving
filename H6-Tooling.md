@@ -16,7 +16,15 @@
    Bestaand document met uitleg over EA invoegen of een verwijzing naar dat document openemen.
 </aside>
 
+<aside class="issue" title="In dit hoofdstuk handleiding Importeren va neen bestaand SVN-project in EA behandelen"></aside>
+
+<aside class="issue" title="In dit hoofdstuk handleiding handleiding Gebruik MIM-toolbox"></aside>
+
+
+
 ## Subversion (SVN)
+
+<aside class="issue" title="In dit hoofdstuk handleiding installatie SVN behandelen"></aside>
 
 <aside class="issue" title="Uitleg Subversion invoegen">
    Bestaand document met uitleg over Subversion invoegen of een verwijzing naar dat document openemen. Hiervoor zijn verschillende handleidingen beschikbaar:
