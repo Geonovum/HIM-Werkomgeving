@@ -12,7 +12,10 @@
 
 <aside class="issue" title="In dit hoofdstuk het overzicht tooling team standaardisatie behandelen"></aside>
 
-## Enterprise Architect (EA)
+
+## Modelleren
+
+### Enterprise Architect (EA)
 
 <aside class="issue" title="Uitleg EA invoegen">
    Bestaand document met uitleg over EA invoegen of een verwijzing naar dat document openemen.
@@ -28,7 +31,7 @@
 
 <aside class="issue" title="In dit hoofdstuk handleiding Enterprise Architect, profielen en toolboxen"></aside>
 
-## Subversion (SVN)
+### Subversion (SVN)
 
 <aside class="issue" title="Uitleg Subversion invoegen">
    Bestaand document met uitleg over Subversion invoegen of een verwijzing naar dat document openemen. Hiervoor zijn verschillende handleidingen beschikbaar:
@@ -40,7 +43,7 @@
 
 <aside class="issue" title="In dit hoofdstuk handleiding installatie SVN behandelen"></aside>
 
-## Imvertor
+### Imvertor
 
 <aside class="issue" title="In dit hoofdstuk handleiding handleiding Imvertor installeren behandelen"></aside>
 
@@ -50,13 +53,21 @@
    Bestaand document met uitleg over Imvertor invoegen of een verwijzing naar dat document openemen. Hiervoor verwijzen we op dit moment naar de website van Armatiek (ontwikkelaar van Imvertor) waarop veel gedocumenteerd is. Zijn er onderwerpen waarover we zelf nog iets op willen nemen en waarmee we het gebruik binnen Geonovum beter kunnen faciliteren?
 </aside>
 
-## Vocbench
+### Vocbench
 
 <aside class="issue" title="In dit hoofdstuk handleiding VocBench toevoegen">
    Bestaand document met uitleg over Vocbench invoegen of een verwijzing naar dat document openemen. Hiervoor zijn powerpointsheets gemaakt. Verder heeft Vocbench zelf niet-gebruiksvriendelijke documentatie.
 </aside>
 
-## ReSpec
+## Documenteren
+
+### Markdown (MD)
+
+<aside class="issue" title="Uitleg MD invoegen">
+   Bestaand document met uitleg over MD invoegen of een verwijzing naar dat document openemen. Willen we hier überhaupt wat over zeggen? Misschien wel handig om een soort cheat sheet voor ReSpec flavoured markdown te hebben. Maar bestaat die niet al ergens?
+</aside>
+
+### ReSpec
 
 <aside class="issue" title="In dit hoofdstuk handleiding publiceren van het IMGeluid EAP-bestand behandelen"></aside>
 
@@ -68,28 +79,45 @@
 
 <aside class="issue" title="In dit hoofdstuk handleiding beheer GitHub/Markdown/ReSpec behandelen"></aside>
 
-## GitHub
+## Publiceren
+
+### GitHub
 
 <aside class="issue" title="In dit hoofdstuk GitHub introductie behandelen">
    Bestaand document met uitleg over GitHub invoegen of een verwijzing naar dat document openemen.
 </aside>
 
-## Markdown (MD)
+#### Geonovum
 
-<aside class="issue" title="Uitleg MD invoegen">
-   Bestaand document met uitleg over MD invoegen of een verwijzing naar dat document openemen. Willen we hier überhaupt wat over zeggen? Misschien wel handig om een soort cheat sheet voor ReSpec flavoured markdown te hebben. Maar bestaat die niet al ergens?
-</aside>
+Ontsluiten van niet-formele versies (werkversies) van documenten. Onderliggend doel: transparante ontwikkeling, beter toegankelijk dan eigen netwerkschijven. 
 
-## Technisch register
+#### Webhook
+
+Webhook voor het publiceren van documenten op geostandaarden.nl 
+
+### Documentenregister
+
+Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document / GN-BASIS) 
+
+(onderliggend doel: goed vindbare standaarden op persistente URI, voor zowel actieve als archiefversies) 
+
+### Conceptenbibliotheek
+
+Publiceren van semantische begrippen uit informatiemodellen (onderliggend doel: bevorderen harmonisatie / integratie) 
+
+### Technisch register
+
+Publiceren van technische bestanden, behorend bij standaarden (onderliggend doel: implementatie-ondersteuning) 
 
 <aside class="issue" title="In dit hoofdstuk handleiding voor beheerders technisch register behandelen"></aside>
 
-## ETF Validator
+## Implementatie-ondersteuning en beheer
 
+### ETF Validator
 
 <aside class="issue" title="In dit hoofdstuk MKM (Metadata Kwaliteitsmonitor) behandelen"></aside>
 
-## Word
+### Word
 
 <aside class="issue" title="Uitleg Word naar MD e.a. invoegen">
    Bestaand document met uitleg over Word naar MD e.a. invoegen of een verwijzing naar dat document openemen. 
