@@ -83,33 +83,61 @@
 
 ### GitHub
 
-<aside class="issue" title="In dit hoofdstuk GitHub introductie behandelen">
+<aside class="issue" title="In dit hoofdstuk GitHub-introductie behandelen">
    Bestaand document met uitleg over GitHub invoegen of een verwijzing naar dat document openemen.
 </aside>
 
-#### Geonovum
+**Geonovum**
 
-Ontsluiten van niet-formele versies (werkversies) van documenten. Onderliggend doel: transparante ontwikkeling, beter toegankelijk dan eigen netwerkschijven. 
+<aside class="issue" title="https://github.com/Geonovum">
+   Ontsluiten van niet-formele versies (werkversies) van documenten op de <a href="https://github.com/Geonovum">Geonovum Github</a>. Onderliggend doel: transparante ontwikkeling, beter toegankelijk dan eigen netwerkschijven.
+</aside>
 
-#### Webhook
+**Webhook**
 
-Webhook voor het publiceren van documenten op geostandaarden.nl 
+<aside class="issue" title="Instructie voor publiceren op Geonovum-Github">
+   Webhook voor het publiceren van documenten op geostandaarden.nl. Waar staat dit gepubliceerd?
+</aside>
 
 ### Documentenregister
 
-Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document / GN-BASIS) 
-
-(onderliggend doel: goed vindbare standaarden op persistente URI, voor zowel actieve als archiefversies) 
+<aside class="issue" title="Landingspagine van het Documentenregister">
+   Publiceren van formele versies (consultatieversie, versie ter vaststelling, vastgestelde versie) van standaarden en eindversies van bijv. documentatie (type: document / GN-BASIS). Onderliggend doel: goed vindbare standaarden op persistente URI, voor zowel actieve als archiefversies.
+</aside>
 
 ### Conceptenbibliotheek
 
-Publiceren van semantische begrippen uit informatiemodellen (onderliggend doel: bevorderen harmonisatie / integratie) 
+<aside class="issue" title="Publiceren werkverie of vastgeselde versie begrippenkader">
+   Publiceren van semantische begrippen uit informatiemodellen. Onderliggend doel: bevorderen harmonisatie / integratie>
+</aside>
+
+Publicatie van werk- dan wel vastgestelde versie vind je op:
+ - [Werkversie](https://begrippen.geostandaarden.nl)
+ - [Vastgestelde versie](https://definities.geostandaarden.nl)
+
+Voor beide publicatietypen is ook een testomgeving beschikbaar. Die vind je hier:
+ - [Werkversie (testomgeving)](linkOpnemen)
+ - [Vastgestelde versie (testomgeving)](linkOpnemen)
+
+<aside class="issue" title="URL testomgevingen opnemen">
+   Willen we op deze plek ook de URL's naar de testomgevingen opnemen? Het is voor nieuwe medewerkers wel fijn, maar dit is specifiek een publiek document, dus het lijkt mij niet wenselijk het hier op te nemen. Nu zijn het voor de zekerheid dummies.
+</aside>
 
 ### Technisch register
 
-Publiceren van technische bestanden, behorend bij standaarden (onderliggend doel: implementatie-ondersteuning) 
+Publiceren van technische bestanden, behorend bij standaarden. Onderliggend doel: implementatie-ondersteuning.
 
 <aside class="issue" title="In dit hoofdstuk handleiding voor beheerders technisch register behandelen"></aside>
+
+### MS Word
+
+<aside class="issue" title="Uitleg Word naar MD e.a. invoegen">
+   Bestaand document met uitleg over Word naar MD e.a. invoegen of een verwijzing naar dat document openemen. Tools voor het converteren van Word-documenten naar Respec of markdown en het publiceren ervan 
+</aside>
+ - Word2ReSpec
+ - Word2Werkversie
+ - Word2Markdown
+ - Word2Publicatie
 
 ## Implementatie-ondersteuning en beheer
 
@@ -117,12 +145,6 @@ Publiceren van technische bestanden, behorend bij standaarden (onderliggend doel
 
 <aside class="issue" title="In dit hoofdstuk MKM (Metadata Kwaliteitsmonitor) behandelen"></aside>
 
-### Word
+### JIRA
 
-<aside class="issue" title="Uitleg Word naar MD e.a. invoegen">
-   Bestaand document met uitleg over Word naar MD e.a. invoegen of een verwijzing naar dat document openemen. 
-</aside>
-
- - word2werkversie
- - word2markdown
- - word2publicatie
+Helpdeskregistratie en Meldingen registratie.
