@@ -10,10 +10,11 @@
    Dit moet zich gedurende het proces verder uitkristaliseren. Op deze manier heeft het nu in elk geval een plek.</p>
 </aside>
 
-<aside class="issue" title="In dit hoofdstuk het overzicht tooling team standaardisatie behandelen"></aside>
-
+<aside class="issue" title="Het overzicht tooling team standaardisatie behandelen"></aside>
 
 ## Modelleren
+
+<aside class="example" title="Handleiding tooling informatiemodelleren van VNG"></aside>
 
 ### Enterprise Architect (EA)
 
@@ -21,15 +22,16 @@
    Bestaand document met uitleg over EA invoegen of een verwijzing naar dat document openemen.
 </aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding Importeren va neen bestaand SVN-project in EA behandelen"></aside>
+<aside class="issue" title="Handleiding Importeren va neen bestaand SVN-project in EA behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding handleiding Gebruik MIM-toolbox behandelen"></aside>
+<aside class="issue" title="Handleiding Gebruik MIM-toolbox behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding handleiding Genereren MIM-profiel behandelen"></aside>
+<aside class="issue" title="Handleiding Genereren MIM-profiel behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding handleiding Genereren extensie MIM-toolbox behandelen"></aside>
+<aside class="issue" title="Handleiding Genereren extensie MIM-toolbox behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding Enterprise Architect, profielen en toolboxen"></aside>
+<aside class="issue" title="Handleiding Enterprise Architect, profielen en toolboxen"></aside>
+
 
 ### Subversion (SVN)
 
@@ -41,13 +43,13 @@
    </ul>
 </aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding installatie SVN behandelen"></aside>
+<aside class="issue" title="Handleiding installatie SVN behandelen"></aside>
 
 ### Imvertor
 
-<aside class="issue" title="In dit hoofdstuk handleiding handleiding Imvertor installeren behandelen"></aside>
+<aside class="issue" title="Handleiding handleiding Imvertor installeren behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding handleiding documentatie over imvertor behandelen"></aside>
+<aside class="issue" title="Handleiding handleiding documentatie over imvertor behandelen"></aside>
 
 <aside class="issue" title="Uitleg Imvertor invoegen">
    Bestaand document met uitleg over Imvertor invoegen of een verwijzing naar dat document openemen. Hiervoor verwijzen we op dit moment naar de website van Armatiek (ontwikkelaar van Imvertor) waarop veel gedocumenteerd is. Zijn er onderwerpen waarover we zelf nog iets op willen nemen en waarmee we het gebruik binnen Geonovum beter kunnen faciliteren?
@@ -55,7 +57,7 @@
 
 ### Vocbench
 
-<aside class="issue" title="In dit hoofdstuk handleiding VocBench toevoegen">
+<aside class="issue" title="Handleiding VocBench toevoegen">
    Bestaand document met uitleg over Vocbench invoegen of een verwijzing naar dat document openemen. Hiervoor zijn powerpointsheets gemaakt. Verder heeft Vocbench zelf niet-gebruiksvriendelijke documentatie.
 </aside>
 
@@ -69,21 +71,23 @@
 
 ### ReSpec
 
-<aside class="issue" title="In dit hoofdstuk handleiding publiceren van het IMGeluid EAP-bestand behandelen"></aside>
+<aside class="issue" title="Handleiding publiceren van het IMGeluid EAP-bestand behandelen"></aside>
 
 <aside class="issue" title="Uitleg ReSpec invoegen">
    Bestaand document met uitleg over ReSpec invoegen of een verwijzing naar dat document openemen.
 </aside>
 
-<aside class="issue" title="In dit hoofdstuk Toepassing ReSpec (wiki) behandelen"></aside>
+<aside class="issue" title="Toepassing ReSpec (wiki) behandelen"></aside>
 
-<aside class="issue" title="In dit hoofdstuk handleiding beheer GitHub/Markdown/ReSpec behandelen"></aside>
+<aside class="issue" title="Handleiding beheer GitHub/Markdown/ReSpec behandelen"></aside>
+
+<aside class="issue" title="Respec Utilities toevoegen"></aside>
 
 ## Publiceren
 
 ### GitHub
 
-<aside class="issue" title="In dit hoofdstuk GitHub-introductie behandelen">
+<aside class="issue" title="Github-introductie behandelen">
    Bestaand document met uitleg over GitHub invoegen of een verwijzing naar dat document openemen.
 </aside>
 
@@ -127,7 +131,7 @@ Voor beide publicatietypen is ook een testomgeving beschikbaar. Die vind je hier
 
 Publiceren van technische bestanden, behorend bij standaarden. Onderliggend doel: implementatie-ondersteuning.
 
-<aside class="issue" title="In dit hoofdstuk handleiding voor beheerders technisch register behandelen"></aside>
+<aside class="issue" title="Handleiding voor beheerders technisch register behandelen"></aside>
 
 ### MS Word
 
@@ -143,7 +147,7 @@ Publiceren van technische bestanden, behorend bij standaarden. Onderliggend doel
 
 ### ETF Validator
 
-<aside class="issue" title="In dit hoofdstuk MKM (Metadata Kwaliteitsmonitor) behandelen"></aside>
+<aside class="issue" title="MKM (Metadata Kwaliteitsmonitor) behandelen"></aside>
 
 ### JIRA
 
