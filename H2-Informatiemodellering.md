@@ -144,7 +144,7 @@ afgeleide van een beschreven toepassingsdomein terwijl andere sets al toepassing
 vinden maar nog niet op de juiste manier of nog onvolledig beschreven zijn. Er
 is daarom geen algemeen proces te beschrijven. Voor de één zal het een proces
 met use-case met requirements en stakeholders zijn terwijl voor anderen een
-revers-enginering aan de hand van bestaande uitwisseling en services mogelijk
+*reverse enginering* aan de hand van bestaande uitwisseling en services mogelijk
 is. Beide methoden zullen worden toegelicht. Voor beide processen is de
 doelspecificatie wel duidelijk. Ongeacht de gevolgde methode is het eindproduct
 conform deze beschrijving.</keep></p>
@@ -160,7 +160,7 @@ opgenomen specificaties.</remove></p>
     Hier verwacht ik als lezer toch iets. Of hier in korte vorm wat opnemen, of in bovenstaande paragraaf meteen verwijzen naar hoofdstuk Sofware en UML-profiel.
 </aside>
 
-### Revers-engineering met bestaande specificaties
+### *Reverse engineering* met bestaande specificaties
 
 <p><keep>Het komt vaak voor dat datasets nog geen formele dataspecificatie hebben, of nog
 geen specificatie hebben die conform dit document is. Meestal is er wel andere
